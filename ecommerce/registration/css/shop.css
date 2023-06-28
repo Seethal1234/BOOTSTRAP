@@ -1,0 +1,43 @@
+
+
+
+
+
+
+#dropdwn{
+    position: absolute;
+    top:330px;
+    left: 1000px;
+}
+
+#bt1{
+    background-color: rgb(178, 130, 222);
+}
+
+#dropdwn1{
+    position: absolute;
+    top:330px;
+    left: 1200px;
+}
+
+#bt2{
+    background-color: rgb(178, 130, 222);
+}
+
+#menu{
+    background-color: rgb(134, 101, 164);
+}
+
+#name{
+   position: relative;
+   left: 60px;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+#immm{
+    position: relative;
+    top:100px;
+}
